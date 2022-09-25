@@ -1,5 +1,5 @@
 
-      AI                   |  Software Development
+     
 :-------------------------:|:-------------------------:
 ![](/giphy.gif)  |  ![](/giphy_n.gif)
 
