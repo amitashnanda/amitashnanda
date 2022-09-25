@@ -1,7 +1,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](/giphy.png)  |  ![](/giphy_n.png)
+![](/giphy.gif)  |  ![](/giphy_n.gif)
 
 
 
