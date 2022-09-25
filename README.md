@@ -1,7 +1,7 @@
 
-AI           |  Software Development
+AI           |  SD
 :-------------------------:|:-------------------------:
-![AI](/giphy.gif)  |  ![AI](/giphy(1).gif)
+![AI](/giphy.gif)  |  ![SD](/giphy_n.gif)
 
 
 
