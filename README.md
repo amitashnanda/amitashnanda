@@ -8,4 +8,5 @@
 - 🎯 Portfolio Website: [Portfolio](https://amitashnanda.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [You can reach me here!][linkedin]
+[linkedin]: https://www.linkedin.com/in/amitash01/
 
