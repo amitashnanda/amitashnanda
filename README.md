@@ -1,21 +1,9 @@
 
-                           |  
-<!-- :-------------------------:|:-------------------------:
-![AI](/giphy.gif)  |  ![SD](/giphy_n.gif) -->
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/giphy.png)  |  ![](/giphy_n.png)
 
-<div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src="/giphy.gif" width="300"/>
-      	    </td>
-            <td style="padding:10px">
-            	<img src="/giphy_n.gif" width="300"/>
-            </td>
-           
-        </tr>
-    </table>
-</div>
+
 
 
 
