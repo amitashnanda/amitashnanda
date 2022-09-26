@@ -2,7 +2,7 @@
      
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](/giphy.gif| width = 300)  |  ![](giphy_n.gif| width = 300)
+![](/giphy.gif)  |  ![](giphy_n.gif)
 
 
 
