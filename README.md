@@ -25,9 +25,9 @@ src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/Matlab_Log
 <img align="left" alt="HTML5" width="50px" 
 src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/Pandas_mark.svg" />
 <img align="left" alt="HTML5" width="50px" 
-src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/mysql.png.png" />
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/mysql.png" />
 <img align="left" alt="HTML5" width="50px" 
-src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/git.png.png" />
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/git.png" />
 <img align="left" alt="HTML5" width="50px" 
 src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/github.png" />
 <img align="left" alt="HTML5" width="50px" 
