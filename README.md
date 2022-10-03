@@ -16,8 +16,7 @@
 - 📬 How to reach me: [Click Here!][linkedin]
 - 
 <!-- ### Languages: 
-<img align="left" alt="HTML5" width="50px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png](https://github.com/amitashnanda/amitashnanda/blob/main/python-logo-1.png)" />
-<img align="left" alt="HTML5" width="50px" 
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br>
 <br>
