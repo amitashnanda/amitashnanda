@@ -47,9 +47,10 @@ src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/terminal.p
 
 ### I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Process,Analyse Data and Build Artificial Intelligence Models 
+- Process, Analyse Data and Build Interpretable AI Models 
 
-
+<div align="center">
+<h3 align="center">Welcome to my Github, Have a look at some repositories!</h3>
 
 [linkedin]: https://www.linkedin.com/in/amitash01/
 
