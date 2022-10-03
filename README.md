@@ -45,7 +45,7 @@ src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/terminal.p
 <br>
 
 
-### I love:
+### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Process, Analyse Data and Build Interpretable AI Models 
 
