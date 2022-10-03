@@ -16,7 +16,30 @@
 - 📬 How to reach me: [Click Here!][linkedin]
 - 
 ### Languages: 
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/python-logo-1.png" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/python-logo-1.png" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/cpp_logo.png" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/Matlab_Logo.png" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/Pandas_mark.svg" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/mysql.png.png" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/git.png.png" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/github.png" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/tensorflow-logo-1.png" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/pytorch-logo.png" />
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/visual-studio-code.png" />
+
+<img align="left" alt="HTML5" width="50px" 
+src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/terminal.png" />
+
 
 <br>
 <br>
