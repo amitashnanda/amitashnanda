@@ -18,10 +18,13 @@
 ### Languages: 
 <img align="left" alt="HTML5" width="50px" 
 src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/python-logo-1.png" />
+
+
 <img align="left" alt="HTML5" width="50px" 
 src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/cpp_logo.png" />
 <img align="left" alt="HTML5" width="50px" 
-src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/Matlab_Logo.png" />
+src="https://github.com/amitashnanda/amitashnanda/blob/2ef7be0777c7c8ac457be48ec9f3730048472ab0/Matlab_Logo.png" />
+
 <img align="left" alt="HTML5" width="50px" 
 src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/Pandas_mark.svg" />
 <img align="left" alt="HTML5" width="50px" 
