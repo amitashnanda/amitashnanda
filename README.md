@@ -51,7 +51,7 @@ src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/terminal.p
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Process, Analyse Data and Build Interpretable AI Models 
+- Continual Federated Learning, Distributed Learning, Computer Vision, Bioinformatics, Optimization
 
 <div align="center">
 <h3 align="center">Welcome to my Github, Have a look at some repositories!</h3>
