@@ -1,4 +1,4 @@
- ![](https://github.com/amitashnanda/amitashnanda/blob/main/giphy_n.gif)
+ <img src="https://github.com/amitashnanda/amitashnanda/blob/main/giphy_n.gif" alt="Responsive GIF" style="max-width: 100%; height: auto;">
 
 
 
