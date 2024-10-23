@@ -1,7 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/giphy_n.gif" alt="GIF" style="max-width: 45%; height: auto;">
-  <img src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/giphy.gif" alt="GIF" style="max-width: 45%; height: auto;">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/giphy_n.gif" alt="GIF" style="max-width: 100%; height: auto;">
 </div>
+
 
 
 
