@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/giphy_n.gif" alt="GIF" style="max-width: 100%; height: auto;">
 </div>
 
-
+### Matrix Animation
+Check out the [Matrix Animation](https://github.com/amitashnanda/amitashnanda/blob/main/matrix.html)!
 
 
 
