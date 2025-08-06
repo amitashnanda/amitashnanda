@@ -10,7 +10,7 @@
 
 
 
-### ଜୟ ଜଗନ୍ନାଥ !! |(Namaskara)| (Hello!!)| 🙏🏻, I am Amitash Nanda 👋
+### (Hello!!)| 🙏🏻, I am Amitash Nanda 👋
 [![Linkedin Nanda](https://img.shields.io/badge/-amitashnanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitash01/)](https://www.linkedin.com/in/amitash01/)
 [![Gmail Badge](https://img.shields.io/badge/-ananda@ucsd.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananda@ucsd.edu)](mailto:ananda@ucsd.edu) 
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=9wCusGMAAAAJ&hl=en)](https://scholar.google.com/citations?user=9wCusGMAAAAJ&hl=en)
