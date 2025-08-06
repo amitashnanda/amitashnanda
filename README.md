@@ -10,7 +10,7 @@
 
 
 
-### (Hello!!)| 🙏🏻, I am Amitash Nanda 👋
+### Hello, I am Amitash Nanda 👋
 [![Linkedin Nanda](https://img.shields.io/badge/-amitashnanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitash01/)](https://www.linkedin.com/in/amitash01/)
 [![Gmail Badge](https://img.shields.io/badge/-ananda@ucsd.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananda@ucsd.edu)](mailto:ananda@ucsd.edu) 
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=9wCusGMAAAAJ&hl=en)](https://scholar.google.com/citations?user=9wCusGMAAAAJ&hl=en)
@@ -25,7 +25,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Click Here!][linkedin]
 
-### Languages: 
+### Languages/Frameworks/Tools I use in my work: 
 <img align="left" alt="HTML5" width="50px" 
 src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/python-logo-1.png" />
 
@@ -61,7 +61,7 @@ src="https://raw.githubusercontent.com/amitashnanda/amitashnanda/main/terminal.p
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Continual Federated Learning, Distributed Learning, Computer Vision, Bioinformatics, Optimization
+- Distributed Machine Learning, Generative-AI, Vision-AI, DNN/LLM Optimization, Software & Systems, AI/ML Systems, Bioinformatics
 
 <div align="center">
 <h3 align="center">Welcome to my Github, Have a look at some repositories!</h3>
